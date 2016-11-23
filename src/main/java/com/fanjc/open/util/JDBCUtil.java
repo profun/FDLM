@@ -70,6 +70,7 @@ public class JDBCUtil {
 
 	public static void main(String[] args) throws SQLException {
 
+		System.out.println("测试");
 		Statement st = null;
 		ResultSet rs = null;
 
